@@ -1,7 +1,7 @@
 {
-  "name": "sm-web-widget",
+  "name": "candidates-widget",
   "version": "0.0.1",
-  "description": "Web Widget",
+  "description": "Candidates Widget",
   "repository": {
     "type": "git",
     "url": "https://github.com/tomaash/sm-web-widget.git"
